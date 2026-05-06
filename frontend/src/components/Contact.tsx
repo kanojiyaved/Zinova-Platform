@@ -246,20 +246,13 @@ const Contact = () => {
                   </div>
                 </div>
                 
-                <AnimatedButton type="submit" className="w-full h-12 rounded-xl text-base font-bold" size="lg" variant="hero" animationType="pulse">
-                  Send Message <Send className="ml-2 h-4 w-4" />
+                <AnimatedButton type="submit" disabled={isSubmitting} className="w-full h-12 rounded-xl text-base font-bold" size="lg" variant="hero" animationType="pulse">
+                  {isSubmitting ? "Sending..." : "Send Message"} <Send className="ml-2 h-4 w-4" />
                 </AnimatedButton>
               </form>
             )}
           </div>
         </div>
-            </div>
-            
-            <AnimatedButton type="submit" disabled={isSubmitting} className="w-full" size="lg" variant="hero" animationType="pulse">
-              {isSubmitting ? "Sending..." : "Send Message"} <Send className="ml-2 h-4 w-4" />
-            </AnimatedButton>
-          </form>
-        )}
       </div>
     </section>
   );

@@ -1,0 +1,29 @@
+[33mcb9af38[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/feature-login[m[33m)[m Merge branch 'main' into feature-login
+[33m2eb0666[m[33m ([m[1;32mlogin[m[33m)[m ui
+[33m8b39b4f[m Add login feature
+[33m94f7155[m Dashboard Created
+[33m6b31d7a[m Clean and structured file
+[33m590f6ba[m All fixed
+[33me48a202[m Google sheet connected
+[33m96b1793[m Merge pull request #8 from Gyanam1310/Gyanam
+[33m92cc7e4[m Merge branch 'main' into Gyanam
+[33m7de2144[m Merge pull request #7 from kanojiyaved/login
+[33m54a7a2e[m feat: integrate FastAPI with Google Sheets and connect frontend form submission
+[33m2579613[m[33m ([m[1;31morigin/login[m[33m)[m UI
+[33md3925cd[m Merge pull request #5 from kanojiyaved/login
+[33m30c03c5[m Added login and signup functionality
+[33m6c14a59[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m dashboard updated
+[33m51c0585[m Updated files and folders and landing page initailized
+[33m2e13d83[m Updated files and folders
+[33m788a61d[m OTP section working successfully
+[33m841cf07[m Merge pull request #4 from Gyanam1310/docker
+[33m2240c2d[m dockerize frontend and backend
+[33mf84b27b[m Merge pull request #2 from Gyanam1310/authentication
+[33mec7aefe[m add authentication
+[33m938b0d4[m fix: correct logo path issue in navbar
+[33m677879b[m Final UI/UX changes: updated Dark Mode
+[33m599d329[m Update Stats
+[33m2510358[m Refactor UI to SaaS style, remove emojis, improve consistency, update global stats
+[33m6d997bd[m Merge pull request #1 from lobsangshakya/new_main
+[33mf822c64[m UPdated files and folders
+[33mbe65a44[m Initial commit by Lobsang
